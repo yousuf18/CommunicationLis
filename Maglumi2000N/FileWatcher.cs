@@ -151,6 +151,7 @@ namespace Maglumi2000N
 
                 });
                 SaveToDb(SampleId, Reports);
+                Console.WriteLine("Test");
             }
             catch(Exception ex)
             {
