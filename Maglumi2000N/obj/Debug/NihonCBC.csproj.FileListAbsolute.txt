@@ -1,0 +1,16 @@
+E:\Alkemy\Maglumi2000N\Maglumi2000N\bin\Debug\NihonTest.exe.config
+E:\Alkemy\Maglumi2000N\Maglumi2000N\bin\Debug\NihonTest.exe.manifest
+E:\Alkemy\Maglumi2000N\Maglumi2000N\bin\Debug\NihonTest.application
+E:\Alkemy\Maglumi2000N\Maglumi2000N\bin\Debug\NihonTest.exe
+E:\Alkemy\Maglumi2000N\Maglumi2000N\bin\Debug\NihonTest.pdb
+E:\Alkemy\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.dll
+E:\Alkemy\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.dll
+E:\Alkemy\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.xml
+E:\Alkemy\Maglumi2000N\Maglumi2000N\bin\Debug\EntityFramework.SqlServer.xml
+E:\Alkemy\Maglumi2000N\Maglumi2000N\obj\Debug\NihonCBC.csprojAssemblyReference.cache
+E:\Alkemy\Maglumi2000N\Maglumi2000N\obj\Debug\NihonCBC.csproj.CoreCompileInputs.cache
+E:\Alkemy\Maglumi2000N\Maglumi2000N\obj\Debug\NihonTest.exe.manifest
+E:\Alkemy\Maglumi2000N\Maglumi2000N\obj\Debug\NihonTest.application
+E:\Alkemy\Maglumi2000N\Maglumi2000N\obj\Debug\NihonCBC.csproj.CopyComplete
+E:\Alkemy\Maglumi2000N\Maglumi2000N\obj\Debug\NihonTest.exe
+E:\Alkemy\Maglumi2000N\Maglumi2000N\obj\Debug\NihonTest.pdb
